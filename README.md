@@ -21,6 +21,8 @@ We see the following results for March and September:
 <br>
 ![March_temp](March_temps.png)                       ![September_temp](September_temps.png)
 <br>
+We see in each of these analysis that both months show excellent temperatures for the Surf and Shake shop.
+<br>
 We can run a query on precpitation for both months as shown below:
 <br>
 ![June_prcps](June_prcps.png)                       ![December_prcp](December_prcp.png)
